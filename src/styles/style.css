@@ -1,0 +1,33 @@
+body {
+  background-color: #fd568e;
+  font-family: Arial;
+  text-align: center;
+}
+
+.container {
+  background: rgb(247, 167, 191);
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+h1 {
+  font-family: "Lobster Two";
+  font-size: 40px;
+  color: #d63384;
+}
+
+.subtitulo {
+  font-size: 18px;
+}
+
+img {
+  width: 200px;
+  border-radius: 50%;
+  margin: 20px 0;
+}
+
+h2 {
+  color: #d63384;
+}
